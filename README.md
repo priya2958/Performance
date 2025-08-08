@@ -2,7 +2,7 @@
 
 # Prompts
 
-The claims app is slow during peak hours. Optimize performance to improve response time and user experience.
+Assume claims app is slow during peak hours. Now Optimize performance to improve response time and user experience.
 Requirements:
 Caching:
 Use Redis or in-memory cache for frequently accessed data
